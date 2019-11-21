@@ -9,7 +9,17 @@ h2{
 }
 p{
   font-family: sans-serif;
+  font-size: medium;
 }
 ul{
   line-height: 40px;
+}
+body{
+  background-color: honeydew;
+}
+strong{
+  font-style: italic;
+}
+em{
+  font-style: oblique;
 }
